@@ -1,0 +1,5 @@
+cz/muni/fi/pa165/currency/UnknownExchangeRateException.class
+cz/muni/fi/pa165/currency/CurrencyConvertor.class
+cz/muni/fi/pa165/currency/ExternalServiceFailureException.class
+cz/muni/fi/pa165/currency/ExchangeRateTable.class
+cz/muni/fi/pa165/currency/CurrencyConvertorImpl.class

@@ -1,0 +1,5 @@
+/home/xkolouch/project/PA165/currency-convertor/src/main/java/cz/muni/fi/pa165/currency/ExternalServiceFailureException.java
+/home/xkolouch/project/PA165/currency-convertor/src/main/java/cz/muni/fi/pa165/currency/UnknownExchangeRateException.java
+/home/xkolouch/project/PA165/currency-convertor/src/main/java/cz/muni/fi/pa165/currency/ExchangeRateTable.java
+/home/xkolouch/project/PA165/currency-convertor/src/main/java/cz/muni/fi/pa165/currency/CurrencyConvertorImpl.java
+/home/xkolouch/project/PA165/currency-convertor/src/main/java/cz/muni/fi/pa165/currency/CurrencyConvertor.java
